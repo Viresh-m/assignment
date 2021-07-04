@@ -22,7 +22,7 @@ class App extends Component {
   render() {
     return (
       <div id="container">
-        <div id="page_title">Final Space</div>
+        <div id="page_title">Final Space <p>(Hover for more details)</p></div>
         {this.state.data.map(obj=> <Card data={obj}/>)}
       </div>
     )

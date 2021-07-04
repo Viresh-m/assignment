@@ -1,0 +1,33 @@
+#box {
+   width: 200px;
+   height: 250px;
+   float: left;
+   border-radius: 10%;
+   padding: 10px;
+   background-color: gray;
+   margin:0 20px 20px;
+
+}
+#box_image{
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+
+}
+#title{
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+
+.info{
+    color:white;
+    font-size: large;
+}
+span{
+    color:yellow;
+}
+ul{
+    list-style-type:None;
+}
